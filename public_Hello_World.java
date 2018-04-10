@@ -21,3 +21,4 @@ public class public_Hello_World {
         System.out.println(java.getIntro());
     }
 }
+//Using a class method to print Hello, World program + date
