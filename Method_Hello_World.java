@@ -7,3 +7,4 @@ public class Method_Hello_World {
         System.out.println(s);
     }
 }
+//Creating a Hello, World print using method outside the main
